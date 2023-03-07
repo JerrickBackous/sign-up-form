@@ -1,0 +1,12 @@
+.full_page {
+    display: flex;
+}
+
+.background {
+    flex-direction: column;
+    background-image: url(images/photo-1585202900225-6d3ac20a6962.avif);
+}
+
+.right {
+    flex-direction: column;
+}
